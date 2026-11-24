@@ -12,7 +12,7 @@ On every turn it asks Stockfish to evaluate **every legal move**, then plays the
 
 ## How it works
 
-Worstfish is a small UCI engine that sits between your chess GUI and Stockfish:
+Worstfish is a UCI engine. On every move:
 
 1. The GUI sends Worstfish a position and a clock, like any other engine.
 2. Worstfish passes the position to Stockfish with `MultiPV 500`, which makes Stockfish search and score every legal move instead of only the best one.
