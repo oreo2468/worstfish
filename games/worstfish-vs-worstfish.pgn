@@ -1,0 +1,47 @@
+[Event "Worstfish test games"]
+[Site "?"]
+[Date "2026.11.24"]
+[Round "-"]
+[White "Worstfish 1.0"]
+[Black "Worstfish 1.0"]
+[Result "1/2-1/2"]
+[Termination "Threefold repetition"]
+
+1. g4 f5 2. f3 g5 3. Kf2 Kf7 4. Ke3 Ke6 5. Kd4 Qe8 6. Kc5 Qh5 7. f4 Qh3 8. a4
+c6 9. c4 a6 10. Qb3 Qf3 11. Qb6 Ra7 12. b4 Qd5+ 13. cxd5+ Kf6 14. Qb5 b6+
+15. Kxb6 Bb7 16. Kc5 Ra8 17. d4 Bg7 18. Bh3 e5 19. dxe6 Kg6 20. exd7 Kh6
+21. Bf1 gxf4 22. Ba3 Kg5 23. h3 Bh6 24. Ra2 Kh4 25. e3 Kg3 26. a5 axb5 27. Rb2
+Nf6 28. Be2 Kh4 29. exf4 Ng8 30. Bf3 fxg4 31. Nc3 gxh3 32. Nd1 Nf6 33. Kb6 c5
+34. Rb3 c4 35. Bh5 h2 36. Nc3 Ne8 37. Kc5 Nc6 38. Kxb5 Kg3 39. Be2 Bxf4
+40. Na2+ Kf2 41. Ka4 Nd6 42. b5 Nxb5 43. d5 Nxa5 44. Rxb5 Bg3 45. Nf3 Bh4
+46. Nc3 Ke3 47. Nxh4 Rad8 48. d6 Bg2 49. Rb7 Bf3 50. Rg1 Kf2 51. Ng2 Bg4
+52. Kb4 Kg3 53. Rb8 Bh3 54. Nb1 h1=N 55. Bb2 Nf2 56. Rd1 Rde8 57. Bd3 Re5
+58. Ba3 Ng4 59. Rc1 Rc8 60. Be2 Nb7 61. Rf1 Rd5 62. Bd3 Re8 63. Kc3 Nh6
+64. Kd2 Rb5 65. Bb2 Rh5 66. Kc2 Ng8 67. Na3 Rh6 68. Nb1 Rh5 69. Nh4 c3 70. Kc1
+Bf5 71. Rf4 Kh3 72. Bc4 h6 73. d8=R Bc2 74. Rf6 Kh2 75. Ng2 Ree5 76. Be2 Kg1
+77. Rdf8 Kh1 78. R8f7 Nxd6 79. Ra8 Nb7 80. Rh7 Rhf5 81. Rd7 Re6 82. Rd5 Re4
+83. Rd4 Rf3 84. Bc4 Re7 85. Ra5 Rc7 86. Rdd5 Rd3 87. Nd2 h5 88. Ba2 Rd4
+89. Ne1 Be4 90. Ng2 Kh2 91. Rg6 Kh3 92. Ne3 c2 93. Nb1 Nxa5 94. Nd1 Nc4
+95. Na3 cxd1=N 96. Rd8 Rc5 97. Nb1 Bc6 98. Kc2 Kh4 99. Bb3 Ra5 100. Bc1 Ncb2
+101. Rg5 Bb5 102. Nd2 Rxd8 103. Rg1 Ra3 104. Re1 Rd4 105. Re6 Na4 106. Re1 Re4
+107. Be6 Kg5 108. Rxd1 Nc5 109. Bg4 Nb3 110. Kc3 Bf1 111. Re1 Kf4 112. Bd1 Kg5
+113. Bg4 Kf4 114. Bd1 Kg3 115. Bg4 Kf2 116. Nf3 Re3+ 117. Kc2 Ba6 118. Nh2 Kg3
+119. Bh3 h4 120. Rf1 Rf3 121. Bg5 Bc8 122. Rf2 Nf6 123. Rf1 Ng4 124. Rh1 Nf2
+125. Bxc8 Nd1 126. Kb1 Rf1 127. Bd2 Ra6 128. Bh3 Ra2 129. Bxf1 Na5 130. Bc1
+Kf2 131. Bd3 Rb2+ 132. Ka1 Nc6 133. Bd2 Ne3 134. Rd1 Nd8 135. Be2 Nc4 136. Rb1
+Nd6 137. Nf1 Kg1 138. Bc4 Nb5 139. Bh6 Nb7 140. Bd5 Rb4 141. Bc1 Nd4 142. Ba2
+Kh1 143. Bb2 Rb6 144. Bc1 Ne2 145. Rb5 Ng1 146. Nh2 Rh6 147. Rh5 Kg2 148. Bb1
+h3 149. Bb2 Rh8 150. Nf3 Kf1 151. Rc5 Nd8 152. Rh5 Rh7 153. Bh8 Ne2 154. Nh4
+Nc3 155. Ba2 Na4 156. Bg8 Nb6 157. Kb2 Rg7 158. Rg5 Nc4+ 159. Kb3 Rh7 160. Ra5
+Rd7 161. Ng2 Ke2 162. Ba1 Kd2 163. Bd4 Rh7 164. Ba7 Rh8 165. Be6 Kd1 166. Bc5
+Nc6 167. Bc8 h2 168. Bg1 Nb8 169. Ba6 Ne5 170. Ka3 Ned7 171. Bc8 Na6 172. Ka4
+h1=N 173. Rc5 Nf8 174. Bh2 Nb4 175. Rc6 Rh5 176. Rc2 Ng3 177. Ka3 Rh4 178. Bh3
+Na2 179. Bd7 Nxd7 180. Nf4 Ke1 181. Rd2 Kf1 182. Re2 Rh7 183. Re4 Rh8 184. Nh3
+Rh4 185. Kb2 Nb8 186. Ng1 Nh5 187. Rb4 Ke1 188. Ka1 Rc4 189. Bf4 Ng7 190. Be3
+Re4 191. Nh3 Ne6 192. Ba7 Ng7 193. Bg1 Ne6 194. Ng5 Ke2 195. Kb1 Ke1 196. Nh3
+Nc1 197. Ka1 Na2 198. Ra4 Ke2 199. Nf2 Ke3 200. Rb4 Nd8 201. Kxa2 Rg4 202. Ka1
+Nb7 203. Bh2 Kd2 204. Kb1 Ke1 205. Be5 Nd8 206. Rc4 Na6 207. Nh1 Rg3 208. Rg4
+Rg2 209. Bd4 Nb7 210. Bg1 Rc2 211. Rc4 Nbc5 212. Bd4 Nb7 213. Bb6 Kd2 214. Ka1
+Rb2 215. Rc2+ Kd1 216. Bg1 Nb8 217. Bh2 Nd8 218. Bxb8 Rb1+ 219. Ka2 Rb3
+220. Ka1 Rb1+ 221. Ka2 Rb2+ 222. Ka1 Ne6 223. Bc7 Nf8 224. Bh2 Ng6 225. Bg1
+Nh8 226. Bf2 Ra2+ 227. Kb1 Rb2+ 228. Ka1 Rb1+ 229. Ka2 Rb2+ 230. Ka1 1/2-1/2
