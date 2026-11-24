@@ -63,6 +63,13 @@ Worstfish follows the clock it is given: `movetime`, or `wtime`/`btime` with inc
 
 Worstfish loses almost every game against almost every opponent, including most beginners. Against Stockfish it usually lasts 3 to 12 moves. Two copies of Worstfish against each other tend to shuffle until a draw by repetition, because each side keeps refusing to win.
 
+## Sample games
+
+The [games](games) folder has real games in PGN format:
+
+- `stockfish-vs-worstfish.pgn`: Stockfish 16 against Worstfish, once with each color. Worstfish lasts 3 moves as Black and 7 as White.
+- `worstfish-vs-worstfish.pgn`: Worstfish against itself. Neither side will take a win, so the game lasts 230 moves, with pawns promoting to knights and rooks along the way, before ending in a draw by threefold repetition.
+
 ## Platforms
 
 Worstfish is plain C and runs on Linux, macOS and other Unix-like systems. It has been tested with Stockfish 11 and Stockfish 16.
